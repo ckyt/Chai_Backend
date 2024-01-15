@@ -1,0 +1,15 @@
+{
+  "name": "chai_backend",
+  "version": "1.0.0",
+  "description": "Chai_Backend Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "BakendProject"
+  ],
+  "author": "Chandan kr, Guided by Hitesh sir",
+  "license": "ISC"
+}
